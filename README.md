@@ -14,7 +14,7 @@ SciPy library version: 1.14.1
 RDKit library version: 2024.09.5
 
 
-Sections of the code for both  include:
+Sections of the code for both datasets  include:
 
 Basic EDA and data cleaning
 Advanced EDA
